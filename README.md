@@ -1,6 +1,6 @@
 # About me
-I am a current Master of Science in Business Analytics student at the University of Notre Dame's Mendoza College of Business
-Previously I graduated from The Ohio State University with a specialization in Finance
+I am a current Master of Science in Business Analytics student at the University of Notre Dame's Mendoza College of Business.
+Before Notre Dame I graduated from The Ohio State University with a specialization in Finance
 
 
 
